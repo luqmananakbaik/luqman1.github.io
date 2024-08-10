@@ -1,1 +1,177 @@
-# luqman1.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style> 
+    body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.cv-container {
+    display: flex;
+    max-width: 960px;
+    margin: 50px auto;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.left-column {
+    width: 30%;
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    padding: 20px;
+}
+
+.right-column {
+    width: 70%;
+    padding: 20px;
+}
+
+.profile-picture img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.contact-info,
+.skills {
+    margin-top: 30px;
+}
+
+.contact-info h2,
+.skills h2 {
+    border-bottom: 2px solid #ecf0f1;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+.skills li {
+    margin-bottom: 10px;
+}
+
+.header h1 {
+    font-size: 2.5em;
+    margin-bottom: 5px;
+}
+
+.header h3 {
+    font-size: 1.5em;
+    color: #7f8c8d;
+    margin-bottom: 20px;
+}
+
+.section {
+    margin-top: 30px;
+}
+
+.section h2 {
+    border-bottom: 2px solid #2c3e50;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.experience-item,
+.education-item {
+    margin-bottom: 20px;
+}
+
+.experience-item h3,
+.education-item h3 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #2980b9;
+}
+
+.experience-item p,
+.education-item p {
+    margin: 5px 0;
+}
+
+  
+    </style>
+    <title>LUQMAN</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="cv-container">
+        <div class="left-column">
+            <div class="profile-picture">
+                <img src="1.jpg" alt="Profile Picture">
+            </div>
+            <div class="contact-info">
+                <h2>Contact Information</h2>
+                <p><strong>Email:</strong> luqmanfajar230@gmail.com</p>
+                <p><strong>Phone:</strong> 085226685466</p>
+                <p><strong>ADRRES:</strong> SIGARUT, REJOSARI, TEMANGGUNG</p>
+            </div>
+            <div class="skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>BENGKEL</li>
+                    <li>PHOTOGRAFER</li>
+                    <li>VIDEO GRAFER </li>
+                    <li>CONTEN CREATOR</li></li>
+                </ul>
+            </div>
+        </div>
+        <div class="right-column">
+            <div class="header">
+                <h1>LUQMAN</h1>
+                <h3>Your Profession</h3>
+            </div>
+            <div class="section">
+                <h2>Profile</h2>
+                <p>SAYA ANAK SMK 17 PARAKAN DEGAN JURUSAN TKJ.</p>
+            </div>
+            <div class="section">
+                <h2>Experience</h2>
+                <div class="experience-item">
+                    <h3>BENGKEL</h3>
+                    <p><em>NAMA : BERKAHKASPART</em></p>
+                    <p>ALAMAT: SIGARUT</p>
+                    <p></p>
+                    <p>• BONGKAR PASANG MESIN</p>
+                </div>
+                <div class="experience-item">
+                    <h3>PHOTOGRAFER</h3>
+                    <p><em>NAMA: sukashot.imagenix</em> </p>
+                      
+                    </p>ALAMAT: SIGARUT</p>
+                    <p></p>
+                    <p>• WEDING</p>
+                    <p>• PREWEDING</p>
+                    <p>• WISUDA</p>
+                </div>
+            </div>
+            <div class="section">
+                <h2>Education</h2>
+                <div class="education-item">
+                    <h3>SMK</h3>
+                    <p><em>SMK 17 PARAKAN</em></p>
+                    <p>PARAKAN</p>
+                    <p>2022- 2025</p>
+                    <p>saya pkl selama 6 bulan degan pembelajaran:</p>
+                    <p>• DIGITAL MARKETING</p>
+                    <p>• SEO</p>
+                </div>
+            </div>
+            <div class="section">
+                <h2>Certifications</h2>
+                <ul>
+                    <li> - </li>
+                    <li> - </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
